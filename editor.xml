@@ -4,4 +4,7 @@
     <option name="FONT_FAMILY" value="Courier New" />
     <option name="FONT_SCALE" value="0.9166667" />
   </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+  </component>
 </application>

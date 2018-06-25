@@ -1,0 +1,14 @@
+<application>
+  <component name="nginxServers">
+    <NginxServerDescriptor>
+      <option name="configPath" value="C:/Java/grostore/grostore-presentation/config/nginx.conf" />
+      <option name="errorLogPath" value="C:/Java/nginx-1.15.0/logs/error.log" />
+      <option name="executablePath" value="C:/Java/nginx-1.15.0/nginx.exe" />
+      <option name="globals" value="" />
+      <option name="httpLogPath" value="C:/Java/nginx-1.15.0/logs/access.log" />
+      <option name="id" value="nginx.descriptor.1529955746479" />
+      <option name="name" value="nginx/Windows [1.15.0]" />
+      <option name="pidPath" value="C:/Java/nginx-1.15.0/logs/nginx.pid" />
+    </NginxServerDescriptor>
+  </component>
+</application>

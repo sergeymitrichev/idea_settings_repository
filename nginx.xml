@@ -1,7 +1,7 @@
 <application>
   <component name="nginxServers">
     <NginxServerDescriptor>
-      <option name="configPath" value="C:/Java/grostore/grostore-presentation/config/nginx.conf" />
+      <option name="configPath" value="C:/Java/nginx-1.15.0/conf/nginx.conf" />
       <option name="errorLogPath" value="C:/Java/nginx-1.15.0/logs/error.log" />
       <option name="executablePath" value="C:/Java/nginx-1.15.0/nginx.exe" />
       <option name="globals" value="" />
